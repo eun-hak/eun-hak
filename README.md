@@ -26,20 +26,22 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 
-
-
-
-
-
 ![eunhak's github stats](https://github-readme-stats.vercel.app/api?username=eunhak&show_icons=true)
 
 
 
-
-
-
-
 </div>
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **eun-hak/eun-hak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
