@@ -3,7 +3,6 @@
 
 
 
-
 ![header](https://capsule-render.vercel.app/api?height=300&type=waving&text=Welcome&desc=eunhak's%20github%20profile&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&descAlignY=55&color=0067A3)
 
 <h4 align="center"><b>💌SNS💌<br><br></b>
@@ -26,7 +25,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 
-![eunhak's github stats](https://github-readme-stats.vercel.app/api?username=eunhak&show_icons=true)
+![eun-hak's github stats](https://github-readme-stats.vercel.app/api?username=eun-hak&show_icons=true)
 
 
 
